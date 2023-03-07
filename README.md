@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/ksh910124@gmail.com-F44336?style=flat-square&logo=gmail&logoColor=white"/> <a href="https://hunffy.tistory.com"><img src="https://img.shields.io/badge/https://hunffy.tistory.com-F7901E?style=flat-square&logo=mdBook&logoColor=white" /></a>
 
 ### 👨🏻‍💻 Hi there 
-Hello, I am a future developer dreaming of becoming a web developer.
+Hello, I am a future developer dreaming of becoming a web developer.<br>
 I hope to become a front-end developer, and my goal is to become a full-stack developer in the future.
 
 
