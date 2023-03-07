@@ -8,7 +8,7 @@ Currently, I want to be a front-end developer, and my goal is to be a full stack
 
 
 I think stamina and patience are important for developers.
-So I have been playing football as a hobby in order to have good stamina and perseverance. ⚽
+<br>So I have been playing football as a hobby in order to have good stamina and perseverance. ⚽
 
 
 ### 💻 Skills
