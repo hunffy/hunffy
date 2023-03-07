@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/ksh910124@gmail.com-F44336?style=flat-square&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/https://hunffy.tistory.com-F7901E?style=flat-square&logo=mdBook&logoColor=white" />
 
 ### 💻 skills
-
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 ###
 
 
