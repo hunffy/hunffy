@@ -12,7 +12,7 @@ I like stamina and perseverance.
 So, my goal is to become a persistent and fun developer.
 
 
-### 💻 skills
+### 💻 Skills
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-792EE5?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-FF7800?style=flat-square&logo=Mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-3481FE?style=flat-square&logo=Flask&logoColor=white"/>
 
 ### 📚 Tools 
