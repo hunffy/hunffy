@@ -7,8 +7,8 @@ Currently, I want to be a front-end developer, and my goal is to be a full stack
 
 
 
-I like soccer, so I have good tenacity and stamina.
-So my goal is to be a developer who develops patiently and funly.
+I think stamina and patience are important for developers.
+So I have been playing football as a hobby in order to have good stamina and perseverance. ⚽
 
 
 ### 💻 Skills
