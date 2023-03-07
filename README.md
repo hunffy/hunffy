@@ -2,7 +2,7 @@
 
 
 ### 📮 communicate with me
-<a href="ksh910124@gamil.com"><img src="https://img.shields.io/badge/ksh910124@gmail.com-F44336?style=flat-square&logo=gmail&logoColor=white"/></a> <img src="https://img.shields.io/badge/https://hunffy.tistory.com-F7901E?style=flat-square&logo=mdBook&logoColor=white" />
+<img src="https://img.shields.io/badge/ksh910124@gmail.com-F44336?style=flat-square&logo=gmail&logoColor=white"/> <a href="https://hunffy.tistory.com"><img src="https://img.shields.io/badge/https://hunffy.tistory.com-F7901E?style=flat-square&logo=mdBook&logoColor=white" /></a>
 
 ### 💻 skills
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-792EE5?style=flat-square&logo=Python&logoColor=white"/>
