@@ -2,14 +2,13 @@
 <img src="https://img.shields.io/badge/ksh910124@gmail.com-F44336?style=flat-square&logo=gmail&logoColor=white"/> <a href="https://hunffy.tistory.com"><img src="https://img.shields.io/badge/https://hunffy.tistory.com-F7901E?style=flat-square&logo=mdBook&logoColor=white" /></a> <a href="https://www.instagram.com/kkim.se"><img src="https://img.shields.io/badge/@kkimse-4EE3C2?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 ### 👨🏻‍💻 Hi there 
-Hello, I am a future developer dreaming of becoming a web developer.<br>
-I hope to become a front-end developer, and my goal is to become a full-stack developer in the future.
+Hi, I am dreaming of becoming a web developer in the future.<br>
+Currently, I want to be a front-end developer, and my goal is to be a full stack developer.
 
 
-Because I like soccer
-I like stamina and perseverance.
 
-So, my goal is to become a persistent and fun developer.
+I like soccer, so I have good tenacity and stamina.
+So my goal is to be a developer who develops patiently and funly.
 
 
 ### 💻 Skills
