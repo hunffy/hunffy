@@ -2,7 +2,7 @@
 
 
 ### communicate with me
-<img src="https://img.shields.io/badge/gmail-F44336?style=flat-square&logo=ksh910124@gmail.com&logoColor=white"/>
+<img src="https://img.shields.io/badge/ksh910124@gmail.com-F44336?style=flat-square&logo=gmail&logoColor=white"/>
 
 <!--
 **hunffy/hunffy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
